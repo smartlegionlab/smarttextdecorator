@@ -7,6 +7,19 @@ Author and developer: ___A.A. Suvorov___
 
 ***
 
+![GitHub top language](https://img.shields.io/github/languages/top/smartlegionlab/smarttextdecorator)
+[![PyPI - Downloads](https://img.shields.io/pypi/dm/smarttextdecorator?label=pypi%20downloads)](https://pypi.org/project/smarttextdecorator/)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/smartlegionlab/smarttextdecorator)](https://github.com/smartlegionlab/smarttextdecorator/)
+[![GitHub](https://img.shields.io/github/license/smartlegionlab/smarttextdecorator)](https://github.com/smartlegionlab/smarttextdecorator/blob/master/LICENSE)
+[![PyPI](https://img.shields.io/pypi/v/smarttextdecorator)](https://pypi.org/project/smarttextdecorator)
+[![PyPI - Format](https://img.shields.io/pypi/format/smarttextdecorator)](https://pypi.org/project/smarttextdecorator)
+[![GitHub Repo stars](https://img.shields.io/github/stars/smartlegionlab/smarttextdecorator?style=social)](https://github.com/smartlegionlab/smarttextdecorator/)
+[![GitHub watchers](https://img.shields.io/github/watchers/smartlegionlab/smarttextdecorator?style=social)](https://github.com/smartlegionlab/smarttextdecorator/)
+[![GitHub forks](https://img.shields.io/github/forks/smartlegionlab/smarttextdecorator?style=social)](https://github.com/smartlegionlab/smarttextdecorator/)
+
+
+***
+
 ## Help:
 
 - `pip install smarttextdecorator`
