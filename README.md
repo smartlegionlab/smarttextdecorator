@@ -1,6 +1,12 @@
 # Smart Text Decorator
 Smart text decorator.
 A library for decorating strings and displaying them beautifully in the console.
+
+- Generates and displays lines to the full width of the console with the specified text and a placeholder character.
+- Generates and displays a line with the specified text, decorated at the top and bottom with filler characters along the length of the line.
+
+> Use for beautiful design of console applications.
+
 ***
 
 Author and developer: ___A.A. Suvorov___

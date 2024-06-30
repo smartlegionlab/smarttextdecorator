@@ -6,6 +6,15 @@
 # --------------------------------------------------------
 # https://github.com/smartlegionlab
 # --------------------------------------------------------
-"""A library for decorating strings and displaying them beautifully in the console."""
-__version__ = '0.1.0'
+"""
+A library for decorating strings and displaying them beautifully in the console.
+
+Generates and displays lines to the full width of the console with the specified text and a placeholder character.
+
+Generates and displays a line with the specified text, decorated at the top and bottom with filler characters along the length of the line.
+
+Use for beautiful design of console applications.
+
+"""
+__version__ = '0.1.1'
 __author__ = 'A.A. Suvorov'
