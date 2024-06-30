@@ -1,0 +1,2 @@
+# smarttextdecorator
+Smart text decorator.
