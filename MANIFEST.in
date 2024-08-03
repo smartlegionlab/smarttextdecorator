@@ -4,4 +4,3 @@ include requirements.txt
 include setup.py
 include setup.cfg
 global-exclude data/*
-global-exclude requirements/*

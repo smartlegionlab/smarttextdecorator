@@ -4,7 +4,7 @@
 # Copyright © 2024, A.A. Suvorov
 # All rights reserved.
 # --------------------------------------------------------
-# https://github.com/smartlegionlab
+# https://github.com/smartlegionlab/
 # --------------------------------------------------------
 """
 A library for decorating strings and displaying them beautifully in the console.
@@ -16,5 +16,6 @@ Generates and displays a line with the specified text, decorated at the top and 
 Use for beautiful design of console applications.
 
 """
-__version__ = '0.1.1'
+from .decorators import SmartPrinter, FramedTextDecorator, CenteredTextDecorator
+__version__ = '0.1.2'
 __author__ = 'A.A. Suvorov'

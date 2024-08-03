@@ -1,4 +1,4 @@
-# Smart Text Decorator
+# Smart Text Decorator <sup>v0.1.2</sup>
 Smart text decorator.
 A library for decorating strings and displaying them beautifully in the console.
 
@@ -26,30 +26,41 @@ Author and developer: ___A.A. Suvorov___
 
 ***
 
+## What's new:
+
+__smarttextdecorator__ v0.7.3
+
+> WARNING! Not backward compatible with older versions.
+
+- Fix errors. 
+- Code refactoring.
+
+***
+
 ## Help:
 
 - `pip install smarttextdecorator`
 
 ```python
-from smarttextdecorator.tools import SmartPrinter
-smart_printer = SmartPrinter()
-SmartPrinter.print_framed(char='-')
-smart_printer.print_center(text='Smart Legion Lab')
+from smarttextdecorator import SmartPrinter
+
+SmartPrinter.print_framed(symbol='-')
+SmartPrinter.print_center(text='Smart Legion Lab')
+
 ```
 
 ### Exemple:
 
 ```python
-from smarttextdecorator.tools import SmartPrinter
+from smarttextdecorator import SmartPrinter
 
 
 def main():
-    smart_printer = SmartPrinter()
-    smart_printer.show_head(text='Smart Legion Lab')
+    SmartPrinter.show_head(text='Smart Legion Lab')
     print()
-    smart_printer.print_framed(text='Hello World!!!')
+    SmartPrinter.print_framed(text='Hello World!!!')
     print()
-    smart_printer.show_footer(text='https://github.com/smartlegionlab/')
+    SmartPrinter.show_footer(url='https://github.com/smartlegionlab/', copyright_='Copyright © 2024, A.A. Suvorov. All rights reserved.')
 
 
 if __name__ == '__main__':
@@ -57,7 +68,7 @@ if __name__ == '__main__':
 
 ```
 
-<img alt="image" src="data/images/smarttextdecorator.png">
+![logo](https://github.com/smartlegionlab/smarttextdecorator/raw/master/data/images/smarttextdecorator.png)
 
 ***
 
