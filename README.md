@@ -28,7 +28,7 @@ Author and developer: ___A.A. Suvorov___
 
 ## What's new:
 
-__smarttextdecorator__ v0.7.3
+__smarttextdecorator__ v0.1.2
 
 > WARNING! Not backward compatible with older versions.
 
