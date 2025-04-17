@@ -13,6 +13,7 @@ Author and developer: ___A.A. Suvorov___
 
 ***
 
+[![PyPI Downloads](https://static.pepy.tech/badge/smarttextdecorator)](https://pepy.tech/projects/smarttextdecorator)
 ![GitHub top language](https://img.shields.io/github/languages/top/smartlegionlab/smarttextdecorator)
 [![PyPI - Downloads](https://img.shields.io/pypi/dm/smarttextdecorator?label=pypi%20downloads)](https://pypi.org/project/smarttextdecorator/)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/smartlegionlab/smarttextdecorator)](https://github.com/smartlegionlab/smarttextdecorator/)
