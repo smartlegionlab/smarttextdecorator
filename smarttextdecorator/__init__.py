@@ -17,5 +17,5 @@ Use for beautiful design of console applications.
 
 """
 from .decorators import SmartPrinter, FramedTextDecorator, CenteredTextDecorator
-__version__ = '0.1.2'
+__version__ = '0.1.3'
 __author__ = 'A.A. Suvorov'

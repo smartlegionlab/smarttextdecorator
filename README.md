@@ -1,4 +1,4 @@
-# Smart Text Decorator <sup>v0.1.2</sup>
+# Smart Text Decorator <sup>v0.1.3</sup>
 Smart text decorator.
 A library for decorating strings and displaying them beautifully in the console.
 
@@ -29,7 +29,7 @@ Author and developer: ___A.A. Suvorov___
 
 ## What's new:
 
-__smarttextdecorator__ v0.1.2
+__smarttextdecorator__ v0.1.3
 
 > WARNING! Not backward compatible with older versions.
 
