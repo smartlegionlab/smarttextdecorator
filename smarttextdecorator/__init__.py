@@ -1,7 +1,7 @@
 # --------------------------------------------------------
 # Licensed under the terms of the BSD 3-Clause License
 # (see LICENSE for details).
-# Copyright © 2024, A.A. Suvorov
+# Copyright © 2024, Alexander Suvorov
 # All rights reserved.
 # --------------------------------------------------------
 # https://github.com/smartlegionlab/
@@ -17,5 +17,5 @@ Use for beautiful design of console applications.
 
 """
 from .decorators import SmartPrinter, FramedTextDecorator, CenteredTextDecorator
-__version__ = '0.1.3'
-__author__ = 'A.A. Suvorov'
+__version__ = '1.0.0'
+__author__ = 'Alexander Suvorov'
